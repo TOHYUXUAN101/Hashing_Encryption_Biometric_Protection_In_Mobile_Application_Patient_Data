@@ -14,6 +14,13 @@
   - To validate the user
   - Biometric in this app is a must, either fingerprint or face ID, else you unable to use the app.
 
+- Password Complexity Policy
+  - Minimum 8 character
+  - Must include at least 1 Upper case character
+  - Must include at least 1 Lower case character
+  - Must include at least 1 special character
+  - Must include at least 1 number
+
 - Sessions Management
   - (Client Side Implemented) --> !!!(Server Side like FireCloud need to pay, so I just implement client side)!!!
     - Client Side Will Auto Destroy Login Session within 1 hours (code demonstrated in 40secs).
@@ -25,13 +32,6 @@
 
 - Prevent Identity Spoofing
   - Validate Email Address (I do it at manual form for authentication and I didnt use the Firebase Authentication, so if implement by alternative extension will be take long time) 
-
-- Password Complexity Policy
-  - Minimum 8 character
-  - Must include at least 1 Upper case character
-  - Must include at least 1 Lower case character
-  - Must include at least 1 special character
-  - Must include at least 1 number
     
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 **Demo of the Security Features**
