@@ -53,7 +53,7 @@
       ![image](https://github.com/user-attachments/assets/63fa699b-4a8a-4cad-8686-8145c212efce)<br /><br />
     1.2.3 Once user get authenticated and signed in, token will be created to maintain user login session.<br />
         a. In this demo I set to 40 seconds only<br />
-        b. Once session end, user will auto logout<br />
+        b. Once session end, user will been forced to logout to re-authenticate again<br />
         ![image](https://github.com/user-attachments/assets/ca60b267-def9-4506-aba6-36a6154954b1)<br /><br />
         c. All user data will be in obsecure text, the text will change to clear text when user click EDIT, Besides, all data is encrypted by AES256<br />
         ![image](https://github.com/user-attachments/assets/d30e3f80-73df-48aa-a9e1-35863561ed5d)<br /><br />
