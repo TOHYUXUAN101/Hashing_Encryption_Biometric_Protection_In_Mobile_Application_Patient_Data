@@ -36,8 +36,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 **Demo of the Security Features**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-1.0 **LOGIN/REGISTER PAGE (HASHING + BIOMETRIC)**<br />
-  1.1 Sign Up<br />
+
+  **1.1 Sign Up**<br />
     1.1.1 If Biometric is not been enrolled<br />
       ![image](https://github.com/user-attachments/assets/26a91460-7b16-4b1c-82f1-06b4dc2f4dac)<br />
     1.1.2 If Biometric have been enrolled and password match the password policy<br />
@@ -46,7 +46,7 @@
       ![image](https://github.com/user-attachments/assets/66187bcb-8df3-47a8-84ed-f9df789fc236)<br />
     1.1.4 After done verified user then will auto redirect user to Login Page<br />
 
-  1.2 Sign In<br />
+ ** 1.2 Sign In**<br />
     1.2.1 If Biometric have been enrolled and both credentials is correct<br />
       ![image](https://github.com/user-attachments/assets/8926cf77-1034-4790-8ad7-0f835ccf69bb)<br />
     1.2.2 User need to fill in their details once successful sign in<br />
