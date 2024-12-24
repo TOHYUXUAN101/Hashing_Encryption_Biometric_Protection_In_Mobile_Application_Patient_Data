@@ -1,7 +1,7 @@
 # Hashing_Encryption_Biometric_MFAProtection_In_Mobile_Application_Patient_Data
 # Language : Flutter ||| Database : Firebase Firestore
 
-**A manual form of Security Features implemented: **
+**A manual form of Security Features implemented:**
 - Hashing (SHA3_512 - Availability)
   - Hash the user password. Login will based on the hash value of password.
 
