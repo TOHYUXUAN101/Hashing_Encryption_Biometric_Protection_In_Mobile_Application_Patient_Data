@@ -44,7 +44,7 @@
       ![image](https://github.com/user-attachments/assets/e0e84655-82fb-4f06-b185-ecfd5fd7bc40)<br /><br />
     1.1.3 Password will not been stored in original text, but is stored in hashed 512 bits long length form, so the adversary unable to guese or brute force due to computation source and time limitation.<br />
       ![image](https://github.com/user-attachments/assets/66187bcb-8df3-47a8-84ed-f9df789fc236)<br /><br />
-    1.1.4 After done verified user then will auto redirect user to Login Page<br />
+    1.1.4 After done verified user then will auto redirect user to Login Page<br /><br /><br />
 
  ** 1.2 Sign In**<br />
     1.2.1 If Biometric have been enrolled and both credentials is correct<br />
@@ -60,7 +60,17 @@
         d. Bimetric autentication required when user want to EDIT<br />
         ![image](https://github.com/user-attachments/assets/446a0860-a536-4b33-abca-80e60a57c208)<br /><br />
         e. Once done autentication, user able to see and modified the data in clear text<br />
-        ![image](https://github.com/user-attachments/assets/bf5df774-2376-4bd3-977d-2f8cee8d0979)<br /><br />
+        ![image](https://github.com/user-attachments/assets/bf5df774-2376-4bd3-977d-2f8cee8d0979)<br /><br /><br />
+   
+   ** 1.3 Forget Password**
+    1.3.1 The password also will been check and verified through hashing with biometric.<br />
+    ![image](https://github.com/user-attachments/assets/4174e52d-2e02-49d1-9075-c3a8b0e563cb)<br /><br />
+    ![image](https://github.com/user-attachments/assets/67761a68-baf6-41c4-beb4-eebb3ed44c20)<br /><br />
+    ![image](https://github.com/user-attachments/assets/9db17781-a973-4fa2-9244-4fcaf7ccc218)<br /><br />
+
+
+
+    
         
         
 
