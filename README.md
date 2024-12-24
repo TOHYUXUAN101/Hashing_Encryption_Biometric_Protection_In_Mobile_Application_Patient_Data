@@ -1,9 +1,10 @@
 # Hashing_Encryption_Biometric_MFAProtection_In_Mobile_Application_Patient_Data
 A manual form of Security Features implemented: 
 - Hashing(SHA3_512 - Availability)
+  - Hash the user password. Login will based on the hash value of password.
 - AES(256-32bitkey - Confidentiality)
-  - Encrypted before user input data is parse into FireStore.
-  - Decrypted after fetch user data from FireStore and before present in User Interface.
+  - Encrypted before patient data is parse into FireStore.
+  - Decrypted after fetch patient data from FireStore and before present in User Interface.
 - Biometric(Auto Select Based On Devices Biometric Security Priority - Multifactor Authentication)
   - Biometric in this app is a must, either fingerprint or face ID, else you unable to use the app.
 - Sessions Management
