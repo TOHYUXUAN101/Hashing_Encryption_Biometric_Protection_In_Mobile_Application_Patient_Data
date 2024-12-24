@@ -36,17 +36,17 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 **Demo of the Security Features**
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-1.0 **LOGIN/REGISTER PAGE (HASHING + BIOMETRIC)**
-  1.1 Sign Up 
-    1.1.1 If Biometric is not been enrolled
-      ![image](https://github.com/user-attachments/assets/26a91460-7b16-4b1c-82f1-06b4dc2f4dac)
-    1.1.2 If Biometric have been enrolled and password match the password policy
-      ![image](https://github.com/user-attachments/assets/e0e84655-82fb-4f06-b185-ecfd5fd7bc40)
-    1.1.3 Password will not been stored in original text, but is stored in hashed 512 bits long length form, so the adversary unable to guese or brute force due to computation source and time limitation.
-      ![image](https://github.com/user-attachments/assets/66187bcb-8df3-47a8-84ed-f9df789fc236)
-    1.1.4 After done verified user then will auto redirect user to Login Page
+1.0 **LOGIN/REGISTER PAGE (HASHING + BIOMETRIC)**<br />
+  1.1 Sign Up<br />
+    1.1.1 If Biometric is not been enrolled<br />
+      ![image](https://github.com/user-attachments/assets/26a91460-7b16-4b1c-82f1-06b4dc2f4dac)<br />
+    1.1.2 If Biometric have been enrolled and password match the password policy<br />
+      ![image](https://github.com/user-attachments/assets/e0e84655-82fb-4f06-b185-ecfd5fd7bc40)<br />
+    1.1.3 Password will not been stored in original text, but is stored in hashed 512 bits long length form, so the adversary unable to guese or brute force due to computation source and time limitation.<br />
+      ![image](https://github.com/user-attachments/assets/66187bcb-8df3-47a8-84ed-f9df789fc236)<br />
+    1.1.4 After done verified user then will auto redirect user to Login Page<br />
 
-  1.2 Sign In
+  1.2 Sign In<br />
     1.2.1 If Biometric have been enrolled and both credentials is correct
       ![image](https://github.com/user-attachments/assets/8926cf77-1034-4790-8ad7-0f835ccf69bb)
     1.2.2 User need to fill in their details once successful sign in
