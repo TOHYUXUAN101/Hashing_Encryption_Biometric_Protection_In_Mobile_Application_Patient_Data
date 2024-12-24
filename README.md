@@ -39,28 +39,28 @@
 
   **1.1 Sign Up**<br />
     1.1.1 If Biometric is not been enrolled<br />
-      ![image](https://github.com/user-attachments/assets/26a91460-7b16-4b1c-82f1-06b4dc2f4dac)<br />
+      ![image](https://github.com/user-attachments/assets/26a91460-7b16-4b1c-82f1-06b4dc2f4dac)<br /><br />
     1.1.2 If Biometric have been enrolled and password match the password policy<br />
-      ![image](https://github.com/user-attachments/assets/e0e84655-82fb-4f06-b185-ecfd5fd7bc40)<br />
+      ![image](https://github.com/user-attachments/assets/e0e84655-82fb-4f06-b185-ecfd5fd7bc40)<br /><br />
     1.1.3 Password will not been stored in original text, but is stored in hashed 512 bits long length form, so the adversary unable to guese or brute force due to computation source and time limitation.<br />
-      ![image](https://github.com/user-attachments/assets/66187bcb-8df3-47a8-84ed-f9df789fc236)<br />
+      ![image](https://github.com/user-attachments/assets/66187bcb-8df3-47a8-84ed-f9df789fc236)<br /><br />
     1.1.4 After done verified user then will auto redirect user to Login Page<br />
 
  ** 1.2 Sign In**<br />
     1.2.1 If Biometric have been enrolled and both credentials is correct<br />
-      ![image](https://github.com/user-attachments/assets/8926cf77-1034-4790-8ad7-0f835ccf69bb)<br />
+      ![image](https://github.com/user-attachments/assets/8926cf77-1034-4790-8ad7-0f835ccf69bb)<br /><br />
     1.2.2 User need to fill in their details once successful sign in<br />
-      ![image](https://github.com/user-attachments/assets/63fa699b-4a8a-4cad-8686-8145c212efce)<br />
+      ![image](https://github.com/user-attachments/assets/63fa699b-4a8a-4cad-8686-8145c212efce)<br /><br />
     1.2.3 Once user get authenticated and signed in, token will be created to maintain user login session.<br />
         a. In this demo I set to 40 seconds only<br />
         b. Once session end, user will auto logout<br />
-        ![image](https://github.com/user-attachments/assets/ca60b267-def9-4506-aba6-36a6154954b1)<br />
+        ![image](https://github.com/user-attachments/assets/ca60b267-def9-4506-aba6-36a6154954b1)<br /><br />
         c. All user data will be in obsecure text, the text will change to clear text when user click EDIT, Besides, all data is encrypted by AES256<br />
-        ![image](https://github.com/user-attachments/assets/d30e3f80-73df-48aa-a9e1-35863561ed5d)<br />
+        ![image](https://github.com/user-attachments/assets/d30e3f80-73df-48aa-a9e1-35863561ed5d)<br /><br />
         d. Bimetric autentication required when user want to EDIT<br />
-        ![image](https://github.com/user-attachments/assets/446a0860-a536-4b33-abca-80e60a57c208)<br />
+        ![image](https://github.com/user-attachments/assets/446a0860-a536-4b33-abca-80e60a57c208)<br /><br />
         e. Once done autentication, user able to see and modified the data in clear text<br />
-        ![image](https://github.com/user-attachments/assets/bf5df774-2376-4bd3-977d-2f8cee8d0979)<br />
+        ![image](https://github.com/user-attachments/assets/bf5df774-2376-4bd3-977d-2f8cee8d0979)<br /><br />
         
         
 
