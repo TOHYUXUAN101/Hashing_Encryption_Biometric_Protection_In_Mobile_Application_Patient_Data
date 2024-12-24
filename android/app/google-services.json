@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158192742907",
+    "project_id": "hospitize-7c036",
+    "storage_bucket": "hospitize-7c036.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158192742907:android:cdc6f6041de3a5278bdb5e",
+        "android_client_info": {
+          "package_name": "com.example.hospitize"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8N2-U0Cad6y_fudcrSCzC409pUagWLhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
