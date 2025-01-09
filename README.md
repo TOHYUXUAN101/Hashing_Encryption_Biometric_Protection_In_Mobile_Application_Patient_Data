@@ -4,7 +4,7 @@
 
 
 **A manual form of Security Features implemented:**
-- Hashing (SHA3_512 - Availability)
+- Hashing (SHA3_512 - Integrity /Availability)
   - Hash the user password. Login will based on the hash value of password.
 
 - Encryption (AES256-32bitkey - Confidentiality)
