@@ -47,11 +47,11 @@
     1.1.3 Password will not been stored in original text, but is stored in hashed 512 bits long length form, so the adversary unable to guese or brute force due to computation source and time limitation.<br />
       ![image](https://github.com/user-attachments/assets/66187bcb-8df3-47a8-84ed-f9df789fc236)<br /><br />
     1.1.4 Device UID will been created for each account registered devices.
-      ![image](https://github.com/user-attachments/assets/50c0dd9a-d930-4e8e-ba18-ea50242af236)
+      ![image](https://github.com/user-attachments/assets/50c0dd9a-d930-4e8e-ba18-ea50242af236)<br /><br />
     1.1.5 After done verified user then will auto redirect user to Login Page<br /><br /><br />
 
  ** 1.2 Sign In**<br />
-    1.2.1 If attacker is luckily having the correct password and email address, then the database will compare to device id and if wrong device id, it will email user for notice and verification purpose.
+    1.2.1 If attacker is luckily having the correct password and email address, then the database will compare to device id and if wrong device id, it will email user for notice and verification purpose.<br />
       ![image](https://github.com/user-attachments/assets/f1b0fb77-d4fe-4cab-a8be-5959591a342c)
     1.2.2 If Biometric have been enrolled and both credentials is correct<br />
       ![image](https://github.com/user-attachments/assets/8926cf77-1034-4790-8ad7-0f835ccf69bb)<br /><br />
