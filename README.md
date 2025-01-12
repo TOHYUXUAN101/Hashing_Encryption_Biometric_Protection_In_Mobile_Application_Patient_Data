@@ -52,7 +52,7 @@
 
  ** 1.2 Sign In**<br />
     1.2.1 If attacker is luckily having the correct password and email address, then the database will compare to device id and if wrong device id, it will email user for notice and verification purpose.<br />
-      ![image](https://github.com/user-attachments/assets/f1b0fb77-d4fe-4cab-a8be-5959591a342c)
+      ![image](https://github.com/user-attachments/assets/f1b0fb77-d4fe-4cab-a8be-5959591a342c)<br /><br />
     1.2.2 If Biometric have been enrolled and both credentials is correct<br />
       ![image](https://github.com/user-attachments/assets/8926cf77-1034-4790-8ad7-0f835ccf69bb)<br /><br />
     1.2.2 User need to fill in their details once successful sign in<br />
